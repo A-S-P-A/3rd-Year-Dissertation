@@ -1,4 +1,4 @@
-name: spacecraft-dynamics
+name: Rotating Space station
 channels:
   - default
 dependencies:

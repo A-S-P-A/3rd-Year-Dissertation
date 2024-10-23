@@ -1,0 +1,20 @@
+# Designate yourself as the owner for the entire repository
+* @A-S-P-A
+
+# Specify ownership for specific directories
+.github/workflows/ @A-S-P-A      # All files in the '.github/workflows' directory
+attitude-dynamics/ @A-S-P-A      # All files in the 'attitude-dynamics' directory
+orbital-mechanics/ @A-S-P-A      # All files in the 'orbital-mechanics' directory
+solutions/ @A-S-P-A              # All files in the 'solutions' directory
+unsolved_problems/ @A-S-P-A      # All files in the 'unsolved_problems' directory
+
+# Specify ownership for specific files
+CONTRIBUTING.md @A-S-P-A         # Specific file: CONTRIBUTING.md
+README.md @A-S-P-A               # Specific file: README.md
+_config.yml @A-S-P-A             # Specific file: _config.yml
+_toc.yml @A-S-P-A                # Specific file: _toc.yml
+environment.yml @A-S-P-A         # Specific file: environment.yml
+introduction.ipynb @A-S-P-A      # Specific file: introduction.ipynb
+logo.png @A-S-P-A                # Specific file: logo.png
+paper.bib @A-S-P-A               # Specific file: paper.bib
+paper.md @A-S-P-A                # Specific file: paper.md

@@ -1,0 +1,19 @@
+format: jb-book
+root: introduction
+parts:
+  - caption: Structural Design
+    chapters:
+    - file:
+  - caption: Attitude and Orbital Control System (AOCS)
+    chapters:
+    - file: 
+  - caption: Thermal and Protective shielding
+    chapters:
+    - file: 
+  - caption: Power Systems
+    chapters:
+    - file:
+  - caption: Life Support systems
+    chapters:
+    - file: 
+
